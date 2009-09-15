@@ -9,7 +9,7 @@ begin
     gem.description = %Q{Provides an implementation a tag cloud}
     gem.email = "lnookx@googlemail.com"
     gem.homepage = "http://github.com/leenookx/tagcloud"
-    gem.authors = ["lnookx"]
+    gem.authors = ["leenookx"]
     gem.add_development_dependency "thoughtbot-shoulda"
     gem.add_development_dependency "cucumber"
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
