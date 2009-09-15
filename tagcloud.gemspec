@@ -5,10 +5,10 @@
 
 Gem::Specification.new do |s|
   s.name = %q{tagcloud}
-  s.version = "0.0.1"
+  s.version = "0.0.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = ["lnookx"]
+  s.authors = ["leenookx"]
   s.date = %q{2009-09-15}
   s.description = %q{Provides an implementation a tag cloud}
   s.email = %q{lnookx@googlemail.com}
@@ -22,11 +22,14 @@ Gem::Specification.new do |s|
      "LICENSE",
      "README.rdoc",
      "Rakefile",
+     "VERSION",
+     "app.rb",
      "features/step_definitions/tagcloud_steps.rb",
      "features/support/env.rb",
      "features/tagcloud.feature",
      "lib/tagcloud.rb",
      "lib/tagcloud/tagcloud.rb",
+     "tagcloud.gemspec",
      "test/tagcloud_test.rb",
      "test/test_helper.rb"
   ]
