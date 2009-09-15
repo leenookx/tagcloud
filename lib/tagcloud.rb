@@ -1,2 +1,2 @@
-require "lib/tagcloud/tagcloud"
+require "tagcloud/tagcloud"
 
